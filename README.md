@@ -1,6 +1,6 @@
 # 🚀 Anil Kumar Portfolio
 
-![Portfolio Banner](https://via.placeholder.com/1000x300?text=Portfolio+Preview)
+
 
 ---
 
