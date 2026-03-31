@@ -10,7 +10,7 @@ Hi, I'm **Anil Kumar** — a passionate Full Stack Developer specializing in bui
 
 - 💻 React | .NET | Node.js
 - 🚀 Focused on performance & clean architecture
-- 📈 8+ years experience in web development
+- 📈 2+ years experience in web development
 
 ---
 
@@ -34,3 +34,18 @@ Hi, I'm **Anil Kumar** — a passionate Full Stack Developer specializing in bui
 ---
 
 ## 📂 Project Structure
+portfolio/
+├── public/
+├── src/
+├── components/
+├── pages/
+├── assets/
+├── package.json
+
+## ⚡ Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/ani960/AnilKumar_Portfolio.git
+cd AnilKumar_Portfolio
